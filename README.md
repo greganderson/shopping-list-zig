@@ -9,3 +9,4 @@ Some things that might be fun to try adding:
 - Saving list to a file
 - Multiple lists
 - Either retaining the order in which items were added or displaying them in sorted order (probably alphabetical)
+- Use enums for choices instead of magic numbers
